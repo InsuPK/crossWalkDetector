@@ -11,3 +11,4 @@
 #### 👌 본격적으로 robloflow를 사용하여 횡단보도 데이터셋을 직접 만들었습니다.
 #### 🖖 로컬환경에서 횡단보도 데이터셋을 사용하여 YOLOv5를 학습시켰습니다.
 #### 🖐️ 학습시킨 모델로 횡단보드를 인식하였습니다.
+![alt text](https://github.com/InsuPK/crosswalkDetection/blob/master/crosswalkDetection.png)
